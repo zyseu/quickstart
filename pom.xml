@@ -157,7 +157,7 @@ under the License.
             <version>1.11.0</version>
         </dependency>
 
-        //habse 依赖
+        <!--//habse 依赖-->
         <dependency>
             <groupId>org.apache.hbase</groupId>
             <artifactId>hbase-client</artifactId>
